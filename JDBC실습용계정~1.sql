@@ -1,0 +1,6 @@
+INSERT INTO MEMBER VALUES (SEQ_USERNO.NEXTVAL, ?, ? ,? ,? ,? ,? ,? , ? ,? ,SYSDATE);
+
+
+
+select*from MEMBER 
+WHERE USERNAME LIKE 
